@@ -1,16 +1,18 @@
 fileFormatVersion: 2
-guid: eb5d87a7c355a0b4bb2995730f361b7f
-timeCreated: 1528416647
+guid: 6c0323b4fc6bf6c4b987e176ac3d7b36
+timeCreated: 1538246615
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
+    100002: default
     400000: //RootNode
-    2100000: No Name
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Torus
+    400002: default
+    2100000: defaultMat
+    2300000: default
+    3300000: default
+    4300000: default
   externalObjects: {}
   materials:
     importMaterials: 0
@@ -41,7 +43,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.003
     meshCompression: 0
     addColliders: 0
     importVisibility: 0
