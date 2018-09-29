@@ -1,33 +1,21 @@
 fileFormatVersion: 2
-guid: 2a101bb4cfd2eb1448530d9ee4ec9c83
-timeCreated: 1538246614
+guid: 1ae64c9e2b29b1a45aec14c84f529a5b
+timeCreated: 1538261531
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: Cube_000
-    100004: Cube_001
-    100006: Icosphere
-    400000: //RootNode
-    400002: Cube_000
-    400004: Cube_001
-    400006: Icosphere
-    2100000: unnamed
-    2300000: Cube_000
-    2300002: Cube_001
-    2300004: Icosphere
-    3300000: Cube_000
-    3300002: Cube_001
-    3300004: Icosphere
-    4300000: Cube_000
-    4300002: Cube_001
-    4300004: Icosphere
-    7400000: Default Take
-    9500000: //RootNode
+    100000: default
+    100002: //RootNode
+    400000: default
+    400002: //RootNode
+    2100000: defaultMat
+    2300000: default
+    3300000: default
+    4300000: default
   externalObjects: {}
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -55,13 +43,13 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 1
+    globalScale: 0.5
     meshCompression: 0
     addColliders: 0
-    importVisibility: 1
-    importBlendShapes: 1
-    importCameras: 1
-    importLights: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -80,7 +68,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
@@ -99,7 +87,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
